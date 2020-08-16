@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_ReportMethodError</name>
+   <tag></tag>
+   <elementGuidId>ae2fc36f-62bd-4fb6-802f-ef3b5e3eba2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@id='frmAddReportTo']//li[3]//span[@class='validation-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@id='frmAddReportTo']//li[3]//span[@class='validation-error']</value>
+   </webElementProperties>
+</WebElementEntity>

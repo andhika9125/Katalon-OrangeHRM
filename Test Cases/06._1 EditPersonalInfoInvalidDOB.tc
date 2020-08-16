@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06._1 EditPersonalInfoInvalidDOB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2fdf90d-51cc-4b10-b9ba-ebc706214ce8</testCaseGuid>
+</TestCaseEntity>
